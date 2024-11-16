@@ -1,5 +1,6 @@
 # Stock-News-Sentiment-Analysis
-Using Deep Learning Techniques using LSTM
+Using Deep Learning Techniques  LSTM
+
 About Dataset
 
 Note This dataset is not shuffled The data has over 100000+ rows with sentences and sentiment of each sentence
